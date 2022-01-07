@@ -4,53 +4,48 @@
     "ignore": []
   },
   "setting": {
+    "bundle": false,
+    "userConfirmedBundleSwitch": false,
     "urlCheck": true,
-    "es6": true,
-    "enhance": true,
-    "postcss": true,
-    "preloadBackgroundData": false,
-    "minified": true,
-    "newFeature": true,
-    "coverView": true,
-    "nodeModules": false,
-    "autoAudits": false,
-    "showShadowRootInWxmlPanel": true,
     "scopeDataCheck": false,
-    "uglifyFileName": false,
-    "checkInvalidKey": true,
-    "checkSiteMap": false,
-    "uploadWithSourceMap": true,
+    "coverView": true,
+    "es6": true,
+    "postcss": true,
     "compileHotReLoad": false,
     "lazyloadPlaceholderEnable": false,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "autoAudits": false,
+    "newFeature": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "useIsolateContext": true,
+    "nodeModules": false,
+    "enhance": true,
     "useMultiFrameRuntime": true,
     "useApiHook": true,
     "useApiHostProcess": true,
-    "babelSetting": {
-      "ignore": [],
-      "disablePlugins": [],
-      "outputPath": ""
-    },
-    "enableEngineNative": false,
-    "useIsolateContext": true,
-    "userConfirmedBundleSwitch": false,
+    "showShadowRootInWxmlPanel": true,
     "packNpmManually": false,
+    "enableEngineNative": false,
     "packNpmRelationList": [],
     "minifyWXSS": true,
-    "disableUseStrict": false,
     "showES6CompileOption": false,
-    "useCompilerPlugins": false,
     "minifyWXML": true
   },
   "compileType": "miniprogram",
   "libVersion": "2.21.3",
-  "appid": "wxede621d5cc73f7c5",
-  "projectname": "lvyouxcx",
+  "appid": "wxc4e152e2f0004df6",
+  "projectname": "miniprogram-9",
   "debugOptions": {
     "hidedInDevtools": []
   },
+  "scripts": {},
+  "staticServerOptions": {
+    "baseURL": "",
+    "servePath": ""
+  },
   "isGameTourist": false,
-  "simulatorType": "wechat",
-  "simulatorPluginLibVersion": {},
   "condition": {
     "search": {
       "list": []
@@ -59,7 +54,12 @@
       "list": []
     },
     "game": {
-      "currentL": -1,
+      "list": []
+    },
+    "plugin": {
+      "list": []
+    },
+    "gamePlugin": {
       "list": []
     },
     "miniprogram": {
