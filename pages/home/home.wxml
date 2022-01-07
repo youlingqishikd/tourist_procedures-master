@@ -1,0 +1,98 @@
+<view class="aui-scrollView">
+  <view class="aui-head-bg">
+    <view class="aui-flex">
+      <view class="aui-mine-user">
+        <image src="../../images/user.png" />
+      </view>
+      <view class="aui-flex-box">
+        <h2>欢迎登录</h2>
+      </view>
+    </view>
+  </view>
+  <view class="aui-mon-list">
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-001.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>个人信息</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-002.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>孩子信息</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="viewHeight"></view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-009.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>订单</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="viewHeight"></view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-010.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>优惠卷</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="viewHeight"></view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-004.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>积分系统</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-005.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>我的合同</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-006.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>出行人信息</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-007.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>我要分享</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+    <view class="aui-flex b-line">
+      <view class="aui-cou-img">
+        <image src="../../images/nav-fl-008.png" alt="" />
+      </view>
+      <view class="aui-flex-box">
+        <text>关于我们</text>
+      </view>
+      <view class="aui-arrow"></view>
+    </view>
+  </view>
+</view>

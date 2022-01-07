@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EEC900",
+    "navigationBarTitleText": "星弋",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "color": "#000",
+    "selectedColor": "#ff8400",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "./images/icon-tab/shouye-dian.png",
+        "selectedIconPath": "./images/icon-tab/shouye.png"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "text": "我的",
+        "iconPath": "./images/icon-tab/ziyuan-dian.png",
+        "selectedIconPath": "./images/icon-tab/ziyuan.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

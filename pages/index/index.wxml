@@ -1,0 +1,74 @@
+<view class="m-slider">
+    <view class="slider-item">
+      <image style="width: 750rpx; height: 483rpx; display: block; box-sizing: border-box"  src="../../images/LOGO.png" />
+    </view>
+</view>
+<view class="aui-poor-search">
+  <i class="icon icon-search"></i>
+  <input type="text" placeholder="搜索旅游活动..." />
+</view>
+<view class="aui-palace-box">
+  <view class="aui-palace">
+    <view class="aui-palace-grid">
+      <view class="aui-palace-grid-icon">
+        <image src="../../images/icon-header/icon-pro-001.png" alt="" />
+      </view>
+      <view class="aui-palace-grid-text">
+        <text>战争游戏</text>
+      </view>
+    </view>
+    <view class="aui-palace-grid">
+      <view class="aui-palace-grid-icon">
+        <image src="../../images/icon-header/icon-pro-002.png" alt="" />
+      </view>
+      <view class="aui-palace-grid-text">
+        <text>公园马拉松</text>
+      </view>
+    </view>
+    <view class="aui-palace-grid">
+      <view class="aui-palace-grid-icon">
+        <image src="../../images/icon-header/icon-pro-003.png" alt="" />
+      </view>
+      <view class="aui-palace-grid-text">
+        <text>城市定向赛</text>
+      </view>
+    </view>
+    <view class="aui-palace-grid">
+      <view class="aui-palace-grid-icon">
+        <image src="../../images/icon-header/icon-pro-004.png" alt="" />
+      </view>
+      <view class="aui-palace-grid-text">
+        <text>体适能学院</text>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="aui-poor-head">
+  <h2>精选专题</h2>
+</view>
+<view class="aui-slide-list">
+  <image src="../../images/ad-001.png" alt="" />
+</view>
+<view class="aui-tab">
+  <view class="tab-panel">
+    <view class="tab-panel-item tab-active">
+      <view class="aui-poor-set">
+        <view class="aui-poor-img">
+          <image src="../../images/add-001.png" alt="" />
+        </view>
+        <view class="aui-poor-title">
+          <h2>我爱旅游北京长城三日游 是来北京最好的见证</h2>
+          <h3>手写我的游记 记录下这最美好的时光 中国手写我的游记 记录下这最美好的时光 中国手写我的游记 记录下这最美好的时光 中国 我爱你 北京 我爱你</h3>
+          <view class="aui-flex">
+            <view class="aui-flex-user">
+              <image src="../../images/add-001.png" alt="" />
+            </view>
+            <view class="aui-flex-box">
+              <h4>李嘉桦同学</h4>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
